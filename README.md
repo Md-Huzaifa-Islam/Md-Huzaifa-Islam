@@ -13,9 +13,9 @@
                 ><img
                     src="./profile.png"
                     alt="huzaifa-islam-rakib"
-                    
-            /></a>
-        </p>
+                   />
+            </a>
+    </p>
 
  - 🌱 I’m currently learning **ReactJs** - 🤝 I’m looking for help with
         **Frontend projects** - 💬 Ask me about **JavaScript** - 📫 How to reach
