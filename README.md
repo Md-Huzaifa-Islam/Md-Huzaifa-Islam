@@ -8,12 +8,12 @@
             />
  </p>
 
-   <p align="left" style="width: 150px">
+   <p align="left" >
             <a href="https://github.com/ryo-ma/github-profile-trophy"
                 ><img
                     src="./profile.jpg"
                     alt="huzaifa-islam-rakib"
-                    style="width: 100%; border-radius: 20px"
+                    
             /></a>
         </p>
 
