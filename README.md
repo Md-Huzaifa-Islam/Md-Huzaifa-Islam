@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Huzaifa Islam</h1>
-        <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
  <p align="left">
-            <img
+ <img
                 src="https://komarev.com/ghpvc/?username=huzaifa-islam-rakib&label=Profile%20views&color=0e75b6&style=flat"
                 alt="huzaifa-islam-rakib"
             />
@@ -223,7 +223,7 @@
   <p>
             <img
                 align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-islam-rakib&show_icons=true&locale=en&layout=compact"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=md-huzaifa-islam&show_icons=true&locale=en&layout=compact"
                 alt="huzaifa-islam-rakib"
             />
         </p>
@@ -231,7 +231,7 @@
   <p>
             &nbsp;<img
                 align="center"
-                src="https://github-readme-stats.vercel.app/api?username=huzaifa-islam-rakib&show_icons=true&locale=en"
+                src="https://github-readme-stats.vercel.app/api?username=md-huzaifa-islam&show_icons=true&locale=en"
                 alt="huzaifa-islam-rakib"
             />
         </p>
