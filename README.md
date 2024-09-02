@@ -11,7 +11,7 @@
    <p align="left" >
             <a href="https://github.com/ryo-ma/github-profile-trophy"
                 ><img
-                    src="./profile.jpg"
+                    src="./profile.png"
                     alt="huzaifa-islam-rakib"
                     
             /></a>
