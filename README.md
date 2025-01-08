@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 .<br>📚 I'm currently learning Nextjs .<br>🎯 Goals: To be a Software Engineer by 2025 .<br>🎲 Fun fact: I love talking .</p>
+<p align="left">I am a full stack developer and Computer Science student with expertise in React, Next.js, Node.js, and MongoDB. Skilled in building dynamic, responsive, and scalable web applications while continuously learning and implementing modern web development technologies.<br><br>✨ Creating bugs since 2023 .<br>📚 I'm currently learning Nextjs .<br>🎯 Goals: To be a Software Engineer by 2025 .<br>🎲 Fun fact: I love talking .</p>
 
 ###
 
