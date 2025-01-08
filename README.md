@@ -69,14 +69,6 @@
 
 ###
 
-<h2 align="left">My Activity</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Md-Huzaifa-Islam/Md-Huzaifa-Islam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">My Stats</h2>
 
 ###
